@@ -10,7 +10,8 @@
                         Storyboard.TargetName="textBlock"
                         Storyboard.TargetProperty="(TextBlock.FontSize)"
                         To="64"
-                        Duration="0:0:5"/>
+                        Duration="0:0:5"
+                        AccelerationRatio="0.9"/>
                 </Storyboard>
             </BeginStoryboard>
         </EventTrigger>
